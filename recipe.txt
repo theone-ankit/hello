@@ -2,3 +2,6 @@ welcome to my kitchen
 
 salad 
 pizza
+
+pasta 
+beans
